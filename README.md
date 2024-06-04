@@ -22,4 +22,4 @@ We welcome contributions to improve the content and functionality of the website
 
 ## Contact
 
-* [Your email address or contact information] 
+* riqyuzet@gmail.com
