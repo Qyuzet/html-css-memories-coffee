@@ -10,7 +10,7 @@ This website showcases Memories Coffee, a cozy and inviting coffee shop that aim
 
 ## Technologies
 
-* [List any technologies used, e.g., HTML, CSS, JavaScript]
+* HTML, CSS, JavaScript
 
 ## Getting Started
 
