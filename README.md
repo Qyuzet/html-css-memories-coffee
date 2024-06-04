@@ -11,7 +11,7 @@ This website is a resource dedicated to providing information about drone logist
 
 ## Technologies
 
-* [List any technologies used, e.g., HTML, CSS, JavaScript]
+* HTML, CSS, JavaScript
 
 ## Getting Started
 
@@ -23,4 +23,4 @@ We welcome contributions to enhance the content and functionality of the website
 
 ## Contact
 
-* [Your email address or contact information]
+* riqyuzet@gmail.com
