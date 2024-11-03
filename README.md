@@ -1,6 +1,6 @@
 # Memories Coffee Website
 
-This website showcases Memories Coffee, a cozy and inviting coffee shop that aims to provide a warm and welcoming atmosphere for its customers. They specialize in brewing high-quality coffee using carefully selected beans, offering a variety of blends and brewing methods to cater to different tastes.  The website is designed to give visitors a glimpse into the coffee shop's ambiance and its commitment to creating a memorable experience for its patrons. 
+This website showcases Memories Coffee, a cozy and inviting coffee shop that aims to provide a warm and welcoming atmosphere for its customers. They specialize in brewing high-quality coffee using carefully selected beans, offering a variety of blends and brewing methods to cater to different tastes.  The website is designed to give visitors a glimpse into the coffee shop's ambiance and its commitment to creating a memorable experience for its patrons..
 
 ## Features
 
