@@ -14,7 +14,7 @@ This website showcases Memories Coffee, a cozy and inviting coffee shop that aim
 
 ## Getting Started
 
-* Visit the website: [https://qyuzet.github.io/Web2-MemoriesCoffee/]
+* Visit the website: [https://qyuzet.github.io/html-css-memories-coffee/]
 
 ## Contributing
 
